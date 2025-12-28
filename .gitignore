@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# outputs
+placements_out.json
+packing_animation.html
+
+# videos (large)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# meshes (large)
+meshes/*.obj
+meshes/*.ply
+meshes/*.stl
